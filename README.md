@@ -26,3 +26,8 @@
 
 ### 🛠 Software:
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nimeshar&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nimeshar&theme=vue-dark&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabasarajay&langs_count=8&theme=vue-dark&hide_border=false)](https://github.com/pabasarajay/github-readme-stats)
